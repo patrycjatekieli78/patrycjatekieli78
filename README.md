@@ -1,16 +1,24 @@
-## Hi there 👋
+## Hi there! It's Patrycja 👋
 
-<!--
-**patrycjatekieli78/patrycjatekieli78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi! I’m ✨Patrycja Tekieli✨, and I recently earned my Master’s degree in Bioinformatics from Wrocław University of Science and Technology.
+My academic background gave me a strong foundation in data-driven thinking, which naturally evolved into a deep interest in data analytics and data science.
 
-Here are some ideas to get you started:
+I’ve taught myself Python (Pandas), SQL, and Power BI, and I enjoy using these tools to transform raw, complex data into clear, visual, and actionable insights. My goal is to combine analytical thinking and data storytelling in order to support informed business decisions and reveal insights that create real impact ⚡.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**🎯 My Interests**
+
+ - Data analytics and visualization
+
+ - Business intelligence
+
+ - Data-driven decision making
+
+ - Continuous learning in Python, SQL, and Power BI
+
+**🧰 Skills**
+
+  **Programming & Analysis:** Python (Pandas, NumPy), SQL (PostgreSQL, MySQL)
+
+  **Visualization:** Power BI, Matplotlib
+
+  **Soft Skills:** Analytical thinking, attention to detail, storytelling with data
